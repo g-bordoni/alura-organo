@@ -1,0 +1,12 @@
+.socialMedia {
+  align-items: center;
+  display: flex;
+
+}
+
+.socialMedia img {
+  margin: 0 16px;
+  display: block;
+  width: 12%;
+  height: auto;
+}

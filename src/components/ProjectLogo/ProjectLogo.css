@@ -1,0 +1,10 @@
+.projectLogo {
+  align-items: center;
+  display: flex;
+}
+
+.projectLogo img {
+  display: block;
+  width: 80%;
+  height: auto;
+}

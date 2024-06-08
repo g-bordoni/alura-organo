@@ -1,0 +1,10 @@
+.signature {
+  align-items: center;
+  display: flex;
+}
+
+.signature h5 {
+  font-size: 20px;
+  display: inline-block;
+  color: #FFF;
+}
